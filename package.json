@@ -1,0 +1,11 @@
+{
+  "name": "p2p-webrtc-transfer",
+  "version": "1.4.0",
+  "description": "P2P chunking data transport protocol with sliding window flow control",
+  "type": "module",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test"
+  }
+}
